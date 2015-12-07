@@ -1,6 +1,20 @@
 # app
 
-This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.0.0.
+This project was created for FreeCodeCamp challange.
+
+## Note
+I was not able to run this project on c9.io because of memory limits.
+
+## Screen Shots
+### Login
+<img src="/docs/login.png?raw=true" width="600px" />
+
+### Main Screen
+<img src="/docs/main.png?raw=true" width="600px" />
+
+### Board
+<img src="/docs/board.png?raw=true" width="600px" />
+
 
 ## Getting Started
 
